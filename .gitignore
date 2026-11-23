@@ -14,3 +14,5 @@ xcelium.d*
 # Configuration
 .env
 .env.local
+# Notas pessoais
+PLANEJAMENTO.md
